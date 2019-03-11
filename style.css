@@ -88,3 +88,13 @@ body	 {
   
   color: #494949;
 }
+
+.timeline-table td:first-child {
+  width: 150px;
+}
+
+.timeline-table td {
+  padding-bottom: 20px;
+  
+  vertical-align: top;
+}
