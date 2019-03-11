@@ -80,3 +80,11 @@ body	 {
 .social-link--interactive:hover {
   background: orange;
 }
+
+.code-example {
+  display: inline-block;
+   
+  margin-bottom: 5px;
+  
+  color: #494949;
+}
